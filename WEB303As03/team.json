@@ -1,0 +1,34 @@
+{
+	"members": [
+		{
+			"name": "Phil Aylesworth",
+			"position": "Vice President of Accounting",
+			"bio": "With over 15 years of public accounting and business advisory service experience in the Tongas, Ecuador, Canada, Botswana and the US, Phil is the most seasoned and diversed member of the E Corp. team."
+		},
+		{
+			"name": "Darren Takaki",
+			"position": "Director of Development",
+			"bio": "Darren is the Director of Development for E Corp. Darren creates learning materials for E Corp. as well as consulting for customers to integrate Solutions into their production pipeline and business processes."
+		},
+		{
+			"name": "Andrew Steele",
+			"position": "Director of Human Resources",
+			"bio": "Andrew joined E Corp. in October 1999 as E Corp's first Human Resources Director. As such, he has overall human resources responsibility for E Corp's operations worldwide."
+		},
+		{
+			"name": "Mike Girimonte",
+			"position": "Vice President of Sales and Marketing",
+			"bio": "Mike serves as the Vice President of Sales and Marketing for E Corp. In this role Mike oversees E Corp's marketing and corporate communications efforts worldwide."
+		},
+		{
+			"name": "Alex Millerman",
+			"position": "Founder and CEO",
+			"bio": "While Alex is the founder and CEO of E Corp, he is primarily known for being the pioneer and world leader of creating Solutions."
+		},
+		{
+			"name": "Gurpinder Singh",
+			"position": "Director",
+			"bio": "While Gurpinder is the Director of E Corp, he is primarily known for being the pioneer and world leader of creating Solutions."
+		}
+	]
+}
