@@ -1,0 +1,59 @@
+[
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "age": 25,
+        "role": "Spider-Man",
+        "superpower": "Super-human"
+    },
+        
+    {
+        "firstName": "Mary Jane",
+        "lastName": "Watson",
+        "age": 27,
+        "role": "Petre Girlfriend",
+        "superpower": "None"
+       
+    },
+    {
+        "firstName": "Gwen",
+        "lastName": "Stacy",
+        "age": 22,
+        "role": "Spider-Woman",
+        "superpower": "Wall-crawling"
+        
+    },
+    {
+        "firstName": "Miles",
+        "lastName": "Morales",
+        "age": 18,
+        "role": "Spider-Man",
+        "superpower": "Venom blasts"
+    },
+   
+    {
+        "firstName": "May",
+        "lastName": "Parker",
+        "age": 65,
+        "role": "Aunt",
+        "superpower": "None"
+        
+    },
+    {
+        "firstName": "Otto",
+        "lastName": "Octavius",
+        "age": 45,
+        "role": "Villain",
+        "superpower": "Mind-controlled tentacles"
+      
+    },
+    {
+        "firstName": "Norman",
+        "lastName": "Osborn",
+        "age": 50,
+        "role": "Villain",
+        "superpower": "Enhanced strength"
+        
+    }
+ 
+]
